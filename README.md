@@ -76,6 +76,6 @@
 
 capture ด้วย powerpoint แล้วแทรกลายน้ำ (ชื่อ+รห้ส จากนั้นเลือกทั้งหมดแล้วบันทึกเป็นรูปภาพ) ดูตัวอย่างได้ที่  <https://youtu.be/LRNYjmXpJG0>
 
-4.6 เมื่อเล่นครบ ส่งงานโดยการ pull request มาที่ <[https://github.com/koson/COM-LAB-I-LabSheet-Week-11-2556](https://github.com/koson/COM-LAB-I-LabSheet-Week-11-2556)>
+4.6 เมื่อเล่นครบ ส่งงานโดยการ pull request มาที่ <[https://github.com/Computer-Lab-I-2566/COM-LAB-I-LabSheet-Week-11](https://github.com/Computer-Lab-I-2566/COM-LAB-I-LabSheet-Week-11)>
 
 ---
